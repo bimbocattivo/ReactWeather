@@ -5,7 +5,7 @@ var = Main = React.createClss({
 render: function () {
 return (
 <Nav/>
-<h2>Main Component</h2>
+<h2>Main Component </h2>
 );
 }
 });
